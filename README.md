@@ -131,7 +131,7 @@ Adding `@traceable` to agent functions meant every tool call, argument, and resp
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Aghoghomena/records_inventory_agent
 cd records_inventory
 uv sync
 ```
